@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7875065-c20e-43ef-a91a-2374974867e4)# EX-NO-6-Pseudo-Random-Number
+# EX-NO-6-Pseudo-Random-Number
 
 # AIM: 
 
